@@ -10,6 +10,15 @@ const App = () => {
       <Text>App</Text>
       <Text>App</Text>
       <Text>App</Text>
+      <Text>App</Text>
+      <Text>App</Text>
+      <Text>App</Text> <Text>App</Text>
+      <Text>App</Text>
+      <Text>App</Text> <Text>App</Text>
+      <Text>App</Text>
+      <Text>App</Text> <Text>App</Text>
+      <Text>App</Text>
+      <Text>App</Text>
     </View>
   );
 };
