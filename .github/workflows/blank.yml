@@ -1,8 +1,7 @@
 name: Update AUTHORS
 on:
-  push:
-    branches:
-      - main
+schedule:
+  - cron: 0 0 * * 1
 jobs:
   updateAuthors:
     runs-on: ubuntu-latest
