@@ -91,8 +91,7 @@ jobs:
       # example
       - uses: actions/setup-node@v3
       - uses: actions/javascript-action@v1.0.1
-      - name: CI Security Report
-      - uses: dreamquark-ai/ci-security-report@v1.0.0
+      - name: Run a multi-line script
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
