@@ -9,6 +9,7 @@ const App = () => {
       <Text>zasdfasadsfsdfasdfasdfd</Text>
       <Text>zasdfasadsfsdfasdfasdfd</Text>
       <Text>zasdfasadsfsdfasdfasdfd</Text>
+      <Text>zasdfasadsfsdfasdfasdfd</Text>
     </View>
   );
 };
