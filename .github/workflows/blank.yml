@@ -7,6 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        run: echo Hello, world!
       - name: Create report file
         run: date +%s > report.txt
       - name: Create Pull Request
