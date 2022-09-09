@@ -5,7 +5,7 @@ const App = () => {
   return (
     <View>
       <View>
-        <View></View>
+        <View>hi</View>
       </View>
     </View>
   );
