@@ -5,8 +5,7 @@ const App = () => {
   return (
     <View>
       <Text>zasdfasadsfsdfasdfasdfd</Text>
-      <Text>zasdfasadsfsdfasdfasdfd</Text>
-      <Text>zasdfasadsfsdfasdfasdfd</Text>
+
       <Text>zasdfasadsfsdfasdfasdfd</Text>
       <Text>zasdfasadsfsdfasdfasdfd</Text>
       <Text>zasdfasadsfsdfasdfasdfd</Text>
