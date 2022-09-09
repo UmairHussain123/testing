@@ -4,7 +4,9 @@ import React from "react";
 const App = () => {
   return (
     <View>
-      <View></View>
+      <View>
+        <View></View>
+      </View>
     </View>
   );
 };
